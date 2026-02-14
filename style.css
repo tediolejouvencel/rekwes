@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+.pic{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+.bg{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 60%;
+    background-image: url(jasimi.jpg);
+    background-repeat: no-repeat;
+    background-position: center 30%;
+    background-size: 90%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+}
+}
